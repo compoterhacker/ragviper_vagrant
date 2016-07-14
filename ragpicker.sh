@@ -125,7 +125,7 @@ mkdir -p /opt/ragpicker
 cd /opt/ragpicker
 git clone https://github.com/compoterhacker/ragpicker.git
 chown -R vagrant:vagrant /opt/ragpicker
-cd /opt/ragpicker/ragpicker
+cd /opt/ragpicker/Ragpicker
 ant install
 
 # configuration settings 
